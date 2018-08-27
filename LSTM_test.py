@@ -9,8 +9,6 @@ import torch.nn.functional as F
 import matplotlib.pyplot as plt
 from CLSTM import LSTM, CLSTM
 
-print('hi')
-
 batch_size = 1
 input_size = 1
 output_size = 1
